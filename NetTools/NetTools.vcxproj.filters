@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NetTools.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralSettings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectDevice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandLine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArpScan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArpSend.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GetMAC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketBuilder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PcapManager.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Topology.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ethernet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowStat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArpSpoofing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ip4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IpFragmentation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SynFlood.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Checksum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneralSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectDevice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandLine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArpScan.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArpSend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GetMAC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetHeaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PcapManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Topology.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Loop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ethernet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowStat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArpSpoofing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ip4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IpFragmentation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SynFlood.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Checksum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
